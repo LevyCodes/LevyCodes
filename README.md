@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gabriel Levy
 
 `🚀 Desenvolvedor em formação`
----
+
 
 Me chamo **Gabriel Levy**, atualmente no ensino médio com curso integrado de **Técnico em Informática**. Amo a **área de tecnologia** e admiro o mundo digital em que estamos vivendo. Cada dia, algo novo para aprender!
 
