@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Gabriel+Levy;%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Gabriel+Levy;" />
 </p>
