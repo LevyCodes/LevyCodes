@@ -21,5 +21,10 @@ Me chamo **Gabriel Levy**, atualmente no ensino médio com curso integrado de **
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielLevy1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLevy1&layout=compact&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielLevy1&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLevy1&layout=compact&theme=tokyonight&cache_seconds=86400" height="180em"/>
+
+</div>
