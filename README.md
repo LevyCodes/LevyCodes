@@ -1,17 +1,5 @@
-<p style="animation: fadeText 5s infinite;">
-  <span style="animation: fadeIn 2s, fadeOut 2s 3s infinite;">TEXTO 1</span>
-  <span style="animation: fadeIn 2s, fadeOut 2s 3s infinite; animation-delay: 5s;">TEXTO 2</span>
-</p>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-@keyframes fadeOut {
-  from { opacity: 1; }
-  to { opacity: 0; }
-}
-</style>   
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Gabriel!;Estudante+de+Informática;Aprendendo+programação" />
+</p> 
 
 
