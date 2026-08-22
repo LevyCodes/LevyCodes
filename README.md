@@ -21,4 +21,4 @@ Me chamo **Gabriel Levy**, atualmente no ensino médio com curso integrado de **
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LevyCodes1&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielLevy1&show_icons=true&theme=tokyonight)
