@@ -1,16 +1,17 @@
-## Hi there 👋
+<p style="animation: fadeText 5s infinite;">
+  <span style="animation: fadeIn 2s, fadeOut 2s 3s infinite;">TEXTO 1</span>
+  <span style="animation: fadeIn 2s, fadeOut 2s 3s infinite; animation-delay: 5s;">TEXTO 2</span>
+</p>
 
-<!--
-**LevyCodes/LevyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+</style>   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
