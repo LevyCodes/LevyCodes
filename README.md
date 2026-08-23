@@ -9,7 +9,7 @@ Bem-vindo(a) ao meu perfil do GitHub, Me chamo **Gabriel Levy**, tenho 16 anos e
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Linguagens e Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,6 +24,9 @@ Bem-vindo(a) ao meu perfil do GitHub, Me chamo **Gabriel Levy**, tenho 16 anos e
 
 ## 📊 GitHub Stats
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=LevyCodes&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LevyCodes&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=1F6FEB&border_color=1F6FEB)](https://github.com/stats-organization/github-stats-extended)
 
 *"Mantenham a chama acesa em seus corações." - Kyojuro Rengoku*
 
