@@ -1,5 +1,4 @@
 </br>
-`*"Mantenham a chama acesa em seus corações." - Kyojuro Rengoku*`
 
 # 👋 Olá, eu sou Gabriel Levy
 
@@ -24,4 +23,7 @@ Bem-vindo(a) ao meu perfil do GitHub, Me chamo **Gabriel Levy**, tenho 16 anos e
 ---
 
 ## 📊 GitHub Stats
+
+
+*"Mantenham a chama acesa em seus corações." - Kyojuro Rengoku*
 
