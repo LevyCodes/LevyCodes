@@ -1,5 +1,3 @@
-</br>
-
 # 👋 Olá, eu sou Gabriel Levy
 
 `💻 Estudante de Técnico em Informática | Desenvolvedor em formação`
